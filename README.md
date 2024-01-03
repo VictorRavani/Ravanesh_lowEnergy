@@ -5,3 +5,13 @@ Repositório para armazenar os arquivos do projeto Ravanesh Low Energy, este pro
 
 ![image](https://github.com/VictorRavani/Ravanesh_lowEnergy/assets/101602056/21362975-2ed0-40a4-8eea-8649e58400fd)
 
+# Fabricação da Placa
+
+![image](https://github.com/VictorRavani/Ravanesh_lowEnergy/assets/101602056/ef931f7b-4ada-4be1-b857-4811f2df6340)
+
+# Montagem da placa
+
+![image](https://github.com/VictorRavani/Ravanesh_lowEnergy/assets/101602056/b22c3e5e-605a-4075-821b-4b3f99087bdf)
+
+
+
